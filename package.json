@@ -1,0 +1,24 @@
+{
+  "name": "referal-service",
+  "version": "1.0.0",
+  "description": "referal service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://myroslav.visualstudio.com/api/_git/referal-service"
+  },
+  "keywords": [
+    "referal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.1",
+    "passport": "^0.4.1",
+    "passport-azure-ad": "^4.2.1",
+    "restify": "^8.5.1"
+  }
+}
